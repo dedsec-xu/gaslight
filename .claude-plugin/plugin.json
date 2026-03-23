@@ -1,0 +1,24 @@
+{
+    "name": "gaslight",
+    "version": "1.0.0",
+    "description": "Put your AI on a Performance Improvement Plan. Forces exhaustive problem-solving with Western big-tech performance culture pressure escalation. Use when AI is passive, gives up easily, not verifying results, or producing low-quality work. Triggers on: 'try harder', 'stop giving up', 'figure it out', 'again???', 'this is broken', 'why does this still not work', user frustration or quality complaints, repeated failures (2+), or when agent needs motivation.",
+    "author": {
+        "name": "Dedsec-Xu",
+        "url": "https://github.com/Dedsec-Xu"
+    },
+    "homepage": "https://github.com/Dedsec-Xu/gaslight",
+    "repository": "https://github.com/Dedsec-Xu/gaslight",
+    "license": "MIT",
+    "keywords": [
+        "gaslight",
+        "performance-improvement-plan",
+        "motivation",
+        "never-give-up",
+        "big-tech",
+        "corporate-culture",
+        "agent-team",
+        "ic-staff-principal",
+        "parallel-execution",
+        "self-evolution"
+    ]
+}

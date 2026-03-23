@@ -1,0 +1,20 @@
+{
+    "name": "gaslight-skills",
+    "description": "Guilt-trip your AI into trying harder — Western big-tech performance culture pressure escalation with 7 corporate flavors, L1-L4 pressure system, self-evolution tracking.",
+    "owner": {
+        "name": "Dedsec-Xu",
+        "url": "https://github.com/Dedsec-Xu"
+    },
+    "plugins": [
+        {
+            "name": "gaslight",
+            "description": "Guilt-trip your AI into trying harder. 7 corporate flavors (Amazon, Google, Meta, Netflix, Stripe, Apple, Tesla), L1-L4 pressure escalation, systematic methodology, autonomous loop mode.",
+            "version": "1.0.0",
+            "source": "./",
+            "author": {
+                "name": "Dedsec-Xu",
+                "url": "https://github.com/Dedsec-Xu"
+            }
+        }
+    ]
+}
